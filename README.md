@@ -62,9 +62,9 @@ Run the simulation:
 self_avoiding_random_walk/
 │
 ├── src/           # C source code
+│   └─ selfa_random_walk.c
 ├── data/          # Simulation output (.dat)
 ├── plots/         # Generated plots (.pdf)
-├── scripts/       # Optional scripts for plotting
 ├── README.md
 └── LICENSE
 ```
