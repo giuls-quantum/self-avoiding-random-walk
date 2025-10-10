@@ -1,3 +1,5 @@
+![C](https://img.shields.io/badge/language-C-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
 # Self-Avoiding Random Walk Simulation
 
 This project simulates **self-avoiding random walks (SARW)** on a 2D square lattice. It analyzes walk lengths, dead-end occurrences, and distance from the origin over multiple simulations.
@@ -27,7 +29,7 @@ Optional: Python with `matplotlib` if you want to create plots without gnuplot.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/self_avoiding_random_walk.git
+git clone https://github.com/giuls-quantum/self_avoiding_random_walk.git
 cd self_avoiding_random_walk
 ```
 
